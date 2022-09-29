@@ -20,4 +20,4 @@ Help file:
 Prior installation of [**Rtools**](https://cran.r-project.org/bin/windows/Rtools/) 
 may be required to build the *tmg* package which is no longer in CRAN                                                  
 
-Download all files in a folder and run the *ExampleCode.R* file after modifying the working directory accordingly                                
+Download all files in a folder and run the *ExampleCode.R* file after modifying the working directory accordingly.                                
