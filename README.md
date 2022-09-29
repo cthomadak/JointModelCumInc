@@ -10,7 +10,7 @@ by
 Help file: 
 *help_file.docx*                             
 
-R programs: 
+R programs:
 *JointModel_Subdistr.R*                    
 *JointModel_IncrCumInc.R*                   
 *SurvModel_IncrCumInc.R*                   
